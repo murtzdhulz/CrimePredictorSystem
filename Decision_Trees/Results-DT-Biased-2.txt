@@ -1,0 +1,288 @@
+Processing for the file: Murtaza/ARSON.csv
+Accuracy is 0.846675982775
+Confusion matrix is: [[1512, 1], [134625, 741911]]
+
+
+Processing for the file: Murtaza/ASSAULT.csv
+Accuracy is 0.885998389612
+Confusion matrix is: [[66965, 9911], [90188, 710985]]
+
+
+Processing for the file: Murtaza/BADCHECKS.csv
+Accuracy is 0.871740643176
+Confusion matrix is: [[406, 0], [112618, 765025]]
+
+
+Processing for the file: Murtaza/BRIBERY.csv
+Accuracy is 0.816023934883
+Confusion matrix is: [[289, 0], [161540, 716220]]
+
+
+Processing for the file: Murtaza/BURGLARY.csv
+Accuracy is 0.860774284806
+Confusion matrix is: [[34461, 2294], [119953, 721341]]
+
+
+Processing for the file: Murtaza/DISORDERLYCONDUCT.csv
+Accuracy is 0.852585675742
+Confusion matrix is: [[4308, 12], [129425, 744304]]
+
+
+Processing for the file: Murtaza/DRIVINGUNDERTHEINFLUENCE.csv
+Accuracy is 0.86716003321
+Confusion matrix is: [[2262, 6], [116634, 759147]]
+
+
+Processing for the file: Murtaza/DRUGNARCOTIC.csv
+Accuracy is 0.896199414839
+Confusion matrix is: [[51218, 2753], [88389, 735689]]
+
+
+Processing for the file: Murtaza/DRUNKENNESS.csv
+Accuracy is 0.844399344456
+Confusion matrix is: [[4248, 32], [136593, 737176]]
+
+
+Processing for the file: Murtaza/EMBEZZLEMENT.csv
+Accuracy is 0.85523131397
+Confusion matrix is: [[1164, 2], [127112, 749771]]
+
+
+Processing for the file: Murtaza/EXTORTION.csv
+Accuracy is 0.817957767733
+Confusion matrix is: [[256, 0], [159842, 717951]]
+
+
+Processing for the file: Murtaza/FAMILYOFFENSES.csv
+Accuracy is 0.834061652596
+Confusion matrix is: [[491, 0], [145702, 731856]]
+
+
+Processing for the file: Murtaza/FORGERYCOUNTERFEITING.csv
+Accuracy is 0.858247090994
+Confusion matrix is: [[10439, 170], [124296, 743144]]
+
+
+Processing for the file: Murtaza/FRAUD.csv
+Accuracy is 0.847788676942
+Confusion matrix is: [[16225, 454], [133195, 728175]]
+
+
+Processing for the file: Murtaza/GAMBLING.csv
+Accuracy is 0.832069736427
+Confusion matrix is: [[146, 0], [147451, 730452]]
+
+
+Processing for the file: Murtaza/KIDNAPPING.csv
+Accuracy is 0.825896960192
+Confusion matrix is: [[2329, 12], [152859, 722849]]
+
+
+Processing for the file: Murtaza/LARCENYTHEFT.csv
+Accuracy is 0.901196858034
+Confusion matrix is: [[131923, 42977], [43777, 659372]]
+
+
+Processing for the file: Murtaza/LIQUORLAWS.csv
+Accuracy is 0.849428676532
+Confusion matrix is: [[1901, 2], [132207, 743939]]
+
+
+Processing for the file: Murtaza/MISSINGPERSON.csv
+Accuracy is 0.883069168122
+Confusion matrix is: [[25439, 550], [102121, 749939]]
+
+
+Processing for the file: Murtaza/NONCRIMINAL.csv
+Accuracy is 0.901227608026
+Confusion matrix is: [[77026, 15278], [71449, 714296]]
+
+
+Processing for the file: Murtaza/OTHEROFFENSES.csv
+Accuracy is 0.899983941671
+Confusion matrix is: [[92192, 33990], [53829, 698038]]
+
+
+Processing for the file: Murtaza/PORNOGRAPHYOBSCENEMAT.csv
+Accuracy is 0.823321933058
+Confusion matrix is: [[22, 0], [155132, 722895]]
+
+
+Processing for the file: Murtaza/PROSTITUTION.csv
+Accuracy is 0.913150632823
+Confusion matrix is: [[7449, 35], [76223, 794342]]
+
+
+Processing for the file: Murtaza/RECOVEREDVEHICLE.csv
+Accuracy is 0.856601396961
+Confusion matrix is: [[3133, 5], [125906, 749005]]
+
+
+Processing for the file: Murtaza/ROBBERY.csv
+Accuracy is 0.854486480823
+Confusion matrix is: [[22475, 525], [127243, 727806]]
+
+
+Processing for the file: Murtaza/RUNAWAY.csv
+Accuracy is 0.858032979936
+Confusion matrix is: [[1943, 3], [124651, 751452]]
+
+
+Processing for the file: Murtaza/SECONDARYCODES.csv
+Accuracy is 0.823466571911
+Confusion matrix is: [[9794, 191], [154814, 713250]]
+
+
+Processing for the file: Murtaza/SEXOFFENSESFORCIBLE.csv
+Accuracy is 0.839546540113
+Confusion matrix is: [[4367, 21], [140865, 732796]]
+
+
+Processing for the file: Murtaza/SEXOFFENSESNONFORCIBLE.csv
+Accuracy is 0.827536959782
+Confusion matrix is: [[148, 0], [151431, 726470]]
+
+
+Processing for the file: Murtaza/STOLENPROPERTY.csv
+Accuracy is 0.830641570117
+Confusion matrix is: [[4505, 35], [148670, 724839]]
+
+
+Processing for the file: Murtaza/SUICIDE.csv
+Accuracy is 0.830606264571
+Confusion matrix is: [[508, 0], [148736, 728805]]
+
+
+Processing for the file: Murtaza/SUSPICIOUSOCC.csv
+Accuracy is 0.856306424812
+Confusion matrix is: [[30147, 1267], [124903, 721732]]
+
+
+Processing for the file: Murtaza/TREA.csv
+Accuracy is 0.773256390019
+Confusion matrix is: [[6, 0], [199092, 678951]]
+
+
+Processing for the file: Murtaza/TRESPASS.csv
+Accuracy is 0.837683318357
+Confusion matrix is: [[7287, 39], [142483, 728240]]
+
+
+Processing for the file: Murtaza/VANDALISM.csv
+Accuracy is 0.869000477194
+Confusion matrix is: [[41637, 3088], [111936, 721388]]
+
+
+Processing for the file: Murtaza/VEHICLETHEFT.csv
+Accuracy is 0.903430218587
+Confusion matrix is: [[50617, 3164], [81629, 742639]]
+
+
+Processing for the file: Murtaza/WARRANTS.csv
+Accuracy is 0.862868700949
+Confusion matrix is: [[39682, 2532], [117876, 717959]]
+
+
+Processing for the file: Murtaza/WEAPONLAWS.csv
+Accuracy is 0.846068955149
+Confusion matrix is: [[8503, 52], [135107, 734387]]
+Prediction for first five features
+Checking for DataLine 0
+The crime predicted is: Murtaza/DRUGNARCOTIC.csv
+The crime predicted is: Murtaza/OTHEROFFENSES.csv
+The crime predicted is: Murtaza/SEXOFFENSESNONFORCIBLE.csv
+The crime predicted is: Murtaza/STOLENPROPERTY.csv
+The crime predicted is: Murtaza/SUICIDE.csv
+The crime predicted is: Murtaza/SUSPICIOUSOCC.csv
+The crime predicted is: Murtaza/VANDALISM.csv
+The crime predicted is: Murtaza/WARRANTS.csv
+Prediction Array is:
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0]
+Checking for DataLine 1
+The crime predicted is: Murtaza/DRUGNARCOTIC.csv
+The crime predicted is: Murtaza/OTHEROFFENSES.csv
+The crime predicted is: Murtaza/SEXOFFENSESNONFORCIBLE.csv
+The crime predicted is: Murtaza/STOLENPROPERTY.csv
+The crime predicted is: Murtaza/SUICIDE.csv
+The crime predicted is: Murtaza/SUSPICIOUSOCC.csv
+The crime predicted is: Murtaza/VANDALISM.csv
+The crime predicted is: Murtaza/WARRANTS.csv
+Prediction Array is:
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0]
+Checking for DataLine 2
+The crime predicted is: Murtaza/FRAUD.csv
+The crime predicted is: Murtaza/OTHEROFFENSES.csv
+The crime predicted is: Murtaza/PROSTITUTION.csv
+The crime predicted is: Murtaza/ROBBERY.csv
+The crime predicted is: Murtaza/SEXOFFENSESNONFORCIBLE.csv
+Prediction Array is:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Checking for DataLine 3
+The crime predicted is: Murtaza/LARCENYTHEFT.csv
+The crime predicted is: Murtaza/PROSTITUTION.csv
+The crime predicted is: Murtaza/ROBBERY.csv
+The crime predicted is: Murtaza/WARRANTS.csv
+Prediction Array is:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+Checking for DataLine 4
+The crime predicted is: Murtaza/ARSON.csv
+The crime predicted is: Murtaza/LARCENYTHEFT.csv
+The crime predicted is: Murtaza/NONCRIMINAL.csv
+The crime predicted is: Murtaza/ROBBERY.csv
+The crime predicted is: Murtaza/VANDALISM.csv
+The crime predicted is: Murtaza/WARRANTS.csv
+Prediction Array is:
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+Checking for DataLine 5
+The crime predicted is: Murtaza/ARSON.csv
+The crime predicted is: Murtaza/DRIVINGUNDERTHEINFLUENCE.csv
+The crime predicted is: Murtaza/FRAUD.csv
+The crime predicted is: Murtaza/KIDNAPPING.csv
+The crime predicted is: Murtaza/LARCENYTHEFT.csv
+The crime predicted is: Murtaza/ROBBERY.csv
+The crime predicted is: Murtaza/SECONDARYCODES.csv
+The crime predicted is: Murtaza/SEXOFFENSESNONFORCIBLE.csv
+The crime predicted is: Murtaza/VEHICLETHEFT.csv
+The crime predicted is: Murtaza/WARRANTS.csv
+Prediction Array is:
+[1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+Checking for DataLine 6
+The crime predicted is: Murtaza/ARSON.csv
+The crime predicted is: Murtaza/DRIVINGUNDERTHEINFLUENCE.csv
+The crime predicted is: Murtaza/FRAUD.csv
+The crime predicted is: Murtaza/KIDNAPPING.csv
+The crime predicted is: Murtaza/LARCENYTHEFT.csv
+The crime predicted is: Murtaza/ROBBERY.csv
+The crime predicted is: Murtaza/SECONDARYCODES.csv
+The crime predicted is: Murtaza/SEXOFFENSESNONFORCIBLE.csv
+The crime predicted is: Murtaza/VEHICLETHEFT.csv
+The crime predicted is: Murtaza/WARRANTS.csv
+Prediction Array is:
+[1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+Checking for DataLine 7
+The crime predicted is: Murtaza/BRIBERY.csv
+The crime predicted is: Murtaza/DRUNKENNESS.csv
+The crime predicted is: Murtaza/TREA.csv
+The crime predicted is: Murtaza/VANDALISM.csv
+The crime predicted is: Murtaza/VEHICLETHEFT.csv
+The crime predicted is: Murtaza/WARRANTS.csv
+The crime predicted is: Murtaza/WEAPONLAWS.csv
+Prediction Array is:
+[0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1]
+Checking for DataLine 8
+The crime predicted is: Murtaza/ARSON.csv
+The crime predicted is: Murtaza/FRAUD.csv
+The crime predicted is: Murtaza/LARCENYTHEFT.csv
+The crime predicted is: Murtaza/SUSPICIOUSOCC.csv
+The crime predicted is: Murtaza/TREA.csv
+The crime predicted is: Murtaza/VEHICLETHEFT.csv
+Prediction Array is:
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0]
+Checking for DataLine 9
+The crime predicted is: Murtaza/FORGERYCOUNTERFEITING.csv
+The crime predicted is: Murtaza/FRAUD.csv
+The crime predicted is: Murtaza/LARCENYTHEFT.csv
+The crime predicted is: Murtaza/SUICIDE.csv
+The crime predicted is: Murtaza/TREA.csv
+Prediction Array is:
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
